@@ -7,13 +7,13 @@ Useful command line alias for [Docker](https://www.docker.io/)
 If you use it in zsh
 
 ```bash
-$ curl -fsSL https://github.com/LoveXiaPu/docker-alias/blob/master/zshrc >> ~/.zshrc && source ~/.zshrc
+$ curl -fsSL https://raw.github.com/LoveXiaPu/docker-alias/blob/master/zshrc >> ~/.zshrc && source ~/.zshrc
 ```
 
 In bash
 
 ```bash
-$ curl -fsSL https://github.com/LoveXiaPu/docker-alias/blob/master/zshrc >> ~/.bashrc && source ~/.bashrc
+$ curl -fsSL https://raw.github.com/LoveXiaPu/docker-alias/blob/master/zshrc >> ~/.bashrc && source ~/.bashrc
 ```
 
 ## Reference
